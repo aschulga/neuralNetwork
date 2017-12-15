@@ -1,0 +1,17 @@
+﻿Сборка начата 14.12.2017 13:51:54.
+     1>Проект "D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Laba1Mrz\Laba1Mrz.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\3 курс\1 семестр\мрзвис\лаба 1\laba1mrz\laba1mrz\main.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\3 курс\1 семестр\мрзвис\лаба 1\laba1mrz\laba1mrz\main.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Debug\Laba1Mrz.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Debug\Laba1Mrz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Debug\Laba1Mrz.lib" /MACHINE:X86 Debug\main.obj
+         Debug\matrixAndVector.obj
+         Debug\VectorFromRectangle.obj
+         Laba1Mrz.vcxproj -> D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Debug\Laba1Mrz.exe
+     1>Сборка проекта "D:\3 курс\1 семестр\МРЗвИС\Лаба 1\Laba1Mrz\Laba1Mrz\Laba1Mrz.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.63
